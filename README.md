@@ -12,7 +12,7 @@
   <li>📘 <strong>Baekjoon Online Judge</strong></li>
   <li>📗 <strong>Programmers</strong></li>
   <li>📙 <strong>LeetCode</strong></li>
-  <li>📕 <strong>이것이 코딩 테스트다</strong> 책 문제</li>
+  <li>📕 <strong>이것이 코딩 테스트다</strong></li>
 </ul>
 
 <h3>🔠 사용 언어</h3>
