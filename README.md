@@ -40,8 +40,17 @@ src/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iridescentzia/coding-test/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iridescentzia/coding-test/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
