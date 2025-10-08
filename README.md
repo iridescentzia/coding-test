@@ -41,6 +41,7 @@ src/
 | ------- |
 | [0070-climbing-stairs](https://github.com/iridescentzia/coding-test/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
+| [0747-min-cost-climbing-stairs](https://github.com/iridescentzia/coding-test/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
@@ -49,6 +50,7 @@ src/
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
+| [0747-min-cost-climbing-stairs](https://github.com/iridescentzia/coding-test/tree/master/0747-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
 | ------- |
