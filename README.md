@@ -50,6 +50,7 @@ src/
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/iridescentzia/coding-test/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/iridescentzia/coding-test/tree/master/0747-min-cost-climbing-stairs) |
@@ -57,4 +58,20 @@ src/
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
