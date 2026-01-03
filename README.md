@@ -50,6 +50,7 @@ src/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iridescentzia/coding-test/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/iridescentzia/coding-test/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/iridescentzia/coding-test/tree/master/0322-coin-change) |
@@ -74,4 +75,8 @@ src/
 |  |
 | ------- |
 | [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/iridescentzia/coding-test/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
