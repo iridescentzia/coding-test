@@ -62,6 +62,7 @@ src/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iridescentzia/coding-test/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/iridescentzia/coding-test/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -79,4 +80,8 @@ src/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iridescentzia/coding-test/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iridescentzia/coding-test/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
